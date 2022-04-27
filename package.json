@@ -1,0 +1,7 @@
+{
+  "name": "security-vault",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Diego Borges <borgesdiego00@gmail.com>",
+  "license": "MIT"
+}
